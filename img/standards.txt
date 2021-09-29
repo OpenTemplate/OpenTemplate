@@ -1,0 +1,15 @@
+target screen size
+  hdpi 240dpi
+
+icons
+https://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dip-dp-and-sp
+
+# px = dp * (dpi / 160). ie. a 240 dpi screen, 1 dp == 1.5 pixels
+
+desktop icons
+  .ico 16x16px
+ui icons
+  hdpi 120x120px
+  
+
+

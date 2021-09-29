@@ -1,0 +1,5 @@
+purpose
+license
+author
+contact
+opentemplate@protonmail.com

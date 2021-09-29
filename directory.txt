@@ -1,0 +1,6 @@
+img..image files
+./ui
+./brand..icons, logos, splash
+info..ideas or reference material
+doc..project documentation
+code..simple boiler modules
